@@ -1,0 +1,10 @@
+			
+
+
+
+
+			Tagging Interface
+
+		 	adalah interface  tanpa metode abstrak di dalamnya, yang digunakan untuk menambahkan tipe data
+		 untuk kelas yang mengimplementasikannya dan menjadi interface bapak untuk antarmuka lain
+		 (terutama dengan multiple inheritance in interfaces)
